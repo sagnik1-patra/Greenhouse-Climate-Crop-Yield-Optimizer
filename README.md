@@ -93,7 +93,7 @@ Actual	Predicted
   ]
 }
 
-![Confusion Matrix Heatmap](aCSA_ACO_biosphere_result_graph.png)
+![Confusion Matrix Heatmap](CSA_ACO_biosphere_result_graph.png)
 
 🧾 Configuration Reference (biosphere_config.yaml)
 
