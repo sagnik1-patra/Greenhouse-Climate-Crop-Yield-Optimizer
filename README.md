@@ -78,8 +78,6 @@ Actual	Predicted
 47.11	46.80
 49.00	49.32
 
-![Confusion Matrix Heatmap](aCSA_ACO_biosphere_result_graph.png)
-
 ✅ biosphere_prediction.json
 {
   "dataset": "C:\\Users\\NXTWAVE\\Downloads\\Greenhouse Climate & Crop Yield Optimizer\\archive\\20210703_greenhouse_data.csv",
@@ -94,6 +92,8 @@ Actual	Predicted
     {"actual": 47.13, "predicted": 46.78}
   ]
 }
+
+![Confusion Matrix Heatmap](aCSA_ACO_biosphere_result_graph.png)
 
 🧾 Configuration Reference (biosphere_config.yaml)
 
