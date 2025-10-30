@@ -1,10 +1,51 @@
 {
-    "mae": 15.464731119145322,
-    "rmse": 18.289929256214634,
-    "r2": -0.014752566808019285,
-    "best_params": {
-        "lr": 0.006592415258611269,
-        "units": 52,
-        "dropout": 0.5
-    }
+    "dataset": "C:\\Users\\NXTWAVE\\Downloads\\Greenhouse Climate & Crop Yield Optimizer\\archive\\20210703_greenhouse_data.csv",
+    "records_evaluated": 17153,
+    "metrics": {
+        "MAE": 14.522360701453392,
+        "RMSE": 17.3647751884501,
+        "R2": 0.05803206667831595
+    },
+    "sample_predictions": [
+        {
+            "actual": 94.00000000000001,
+            "predicted": 99.26091003417969
+        },
+        {
+            "actual": 93.0,
+            "predicted": 99.17147827148438
+        },
+        {
+            "actual": 94.00000000000001,
+            "predicted": 99.07693481445312
+        },
+        {
+            "actual": 94.00000000000001,
+            "predicted": 98.98131561279297
+        },
+        {
+            "actual": 95.00000000000001,
+            "predicted": 98.88846588134766
+        },
+        {
+            "actual": 95.00000000000001,
+            "predicted": 98.79900360107422
+        },
+        {
+            "actual": 95.00000000000001,
+            "predicted": 98.70451354980469
+        },
+        {
+            "actual": 95.00000000000001,
+            "predicted": 98.60884094238281
+        },
+        {
+            "actual": 96.99999999999999,
+            "predicted": 98.5160140991211
+        },
+        {
+            "actual": 96.99999999999999,
+            "predicted": 98.42657470703125
+        }
+    ]
 }
