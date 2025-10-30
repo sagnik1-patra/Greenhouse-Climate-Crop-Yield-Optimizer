@@ -1,0 +1,14 @@
+best_hyperparams:
+  dropout: 0.5
+  learning_rate: 0.006592415258611269
+  units: 52
+dataset: C:\Users\NXTWAVE\Downloads\Greenhouse Climate & Crop Yield Optimizer\archive\20210703_greenhouse_data.csv
+features:
+- id
+metrics:
+  MAE: 15.464731119145322
+  R2: -0.014752566808019285
+  RMSE: 18.289929256214634
+optimizer: Hybrid CSA + ACO
+target: online_humidity_percentage
+time_steps: 5
